@@ -8,8 +8,8 @@
             "name": "Debug 2",
             "type": "debugpy",
             "request": "launch",
-            "cwd": "${workspaceFolder}\\2",
-            "program": "2.py",
+            "cwd": "${workspaceFolder}\\3",
+            "program": "3.py",
             "jinja": true,
             "justMyCode": true
         }
