@@ -5,11 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug 2",
+            "name": "Debug 4",
             "type": "debugpy",
             "request": "launch",
-            "cwd": "${workspaceFolder}\\3",
-            "program": "3.py",
+            "cwd": "${workspaceFolder}\\4",
+            "program": "4.py",
             "jinja": true,
             "justMyCode": true
         }
